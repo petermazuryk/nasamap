@@ -5,8 +5,7 @@
 Чтобы запустить программу на локальном компьютере нужно скачать данный репозиторий https://github.com/petermazuryk/nasamap
 
 # Build
-$ npm install
+В терминале с репозиторием вводим  npm install
 
 # Usage
-
-npm start
+Для запуска программы вводим npm start
